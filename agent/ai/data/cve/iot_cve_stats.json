@@ -1,0 +1,14 @@
+{
+  "total_cves": 0,
+  "by_severity": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "UNKNOWN": 0
+  },
+  "with_exploit": 0,
+  "by_vendor": {},
+  "top_products": {},
+  "generated_at": "2025-11-27T11:09:01.845916"
+}

@@ -1,0 +1,7 @@
+scapy
+requests
+mmh3
+colorama
+psutil
+
+beautifulsoup4
